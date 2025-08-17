@@ -11,3 +11,7 @@ This application allows the following functionalities:
 8. Display all portfolios: view all existing portfolios
 9. Display specific portfolio: view a specific portfolio
 The initial available balance to $10000.
+
+Preview of application menu:
+
+<img width="696" height="752" alt="SPM" src="https://github.com/user-attachments/assets/5fe183d7-af0d-477c-adb9-2958af952ec3" />
